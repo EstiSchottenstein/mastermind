@@ -6,6 +6,6 @@ This repo is for the software implementation of the classic game of Mastermind. 
 ## The Game
 The computer generates a pattern of 4 digits randomly chosen from the numbers 1-6. The player has 10 chances to guess the winning pattern. The player is presented with 4 grayed out squares which cover the generated pattern, and another 10 rows of 4 for the player to guess in. After each guess, the numbers will change color to indicate if it is correct. If the player correctly guesses the generated pattern before the 10 tries are up, then the player wins.
 
-**The full spec for the game is found in a folder in the repo**
+**The full spec for the game is found in the documentation folder in the repo, in the file called Mastermind Spec.pdf**
 
 ![Mastermind Wireframe](https://github.com/user-attachments/assets/5a59fd7e-cf51-466b-96a5-af5b75427140)
